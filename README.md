@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-A 3rd-year B.Tech CSE student passionate about learning and exploring new technologies: with expertise in Django and Python and hands-on experience in AI/ML, I am eager to apply Blockchain technology. I am passionate about system design and cybersecurity. I thrive on participating in competitions and collaborating with new people to enhance my skills and gain invaluable experience. I am always looking for exciting opportunities to put my knowledge into practice and make a meaningful contribution to the tech industry. Additionally, I am active in open-source contributions and always ready to tackle big challenges. My journey includes contributing to exciting projects, such as [The Happy Hippies Show](Link) and [AdvancedWare Technologies](Link), where I honed my skills in AWS, API development, and machine learning.
+A 3rd-year B.Tech CSE student passionate about learning and exploring new technologies: with expertise in Django and Python and hands-on experience in AI/ML, I am eager to apply Blockchain technology. I am passionate about system design and cybersecurity. I thrive on participating in competitions and collaborating with new people to enhance my skills and gain invaluable experience. I am always looking for exciting opportunities to put my knowledge into practice and make a meaningful contribution to the tech industry. Additionally, I am active in open-source contributions and always ready to tackle big challenges. My journey includes contributing to exciting projects, such as [The Happy Hippies Show](Link), where I honed my skills in AWS, API development, and machine learning.
 
 ## 🚀 Tech Stack
 
