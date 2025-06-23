@@ -1,32 +1,37 @@
-# 👋 Hello, I'm [Himanshu]!
+# 👋 Hello, I'm Himanshu!
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-A 3rd-year B.Tech CSE student passionate about learning and exploring new technologies, with expertise in Django and Python and hands-on experience in AI/ML. I am passionate about system design and cybersecurity. I thrive on participating in competitions and collaborating with new people to enhance my skills and gain invaluable experience. I am always looking for exciting opportunities to put my knowledge into practice and make a meaningful contribution to the tech industry. Additionally, I am active in open-source contributions and always ready to tackle big challenges. My journey includes contributing to exciting projects, such as **Content Media and Artist Hiring Platform**, during my internship, where I honed my AWS, API development, and machine learning skills.
+I'm a **Computer Science graduate** and currently working as a **Full Stack Developer at Clerisy Solutions** for the past 10 months. I’m passionate about building scalable web applications and delivering efficient software solutions.
+
+My tech journey started with **Python and Django**, and over time I’ve worked extensively on **enterprise-level applications** using **AngularJS, PHP, SQL, JavaScript**, and **CodeIgniter**.
+
+I actively seek out opportunities to contribute to **open-source projects** and **participate in hackathons**, constantly learning and evolving with the tech community.
 
 ## 🚀 Tech Stack
 
-- 💻 Languages: Python, SQL, C++, Java
-- 🛠️ Frameworks: Django, DRF, 
-- 📦 Databases: PostgreSQL, MongoDB
-- 🌐 Web Technologies: REST API
-- 🚀 DevOps: Git, AWS, Google Cloud
-- 🤖 Machine Learning: Exploring and implementing ML models
+- 💻 **Languages:** Python, JavaScript, PHP, SQL, C++, Java  
+- 🛠️ **Frameworks & Libraries:** Django, DRF, CodeIgniter, AngularJS  
+- 🌐 **Web Technologies:** REST APIs, HTML5, CSS3, Bootstrap  
+- 🗄️ **Databases:** PostgreSQL, MySQL, MongoDB  
+- ☁️ **DevOps & Cloud:** AWS, Google Cloud, Git, GitHub  
 
-## 🌱 Current Learning Journey
+## 🔭 Current Focus
 
-Currently, I am diving deeper into the realms of Machine Learning and DevOps, expanding my knowledge and skills to stay at the forefront of technology.
+- Enhancing frontend and backend skills in production-ready enterprise apps  
+- Exploring **clean architecture** and **system security** in full stack apps  
+- Making valuable **open-source contributions**  
 
 ## 🏆 Achievements
 
-- 🏅 2nd Position in the Science Fair Project (1st year of diploma)
-- 🥇 1st Prize in Intercollege Hackathon under SIH
-- 🌐 Top Rank in Diploma All Semester Examination by PSBTE & IT
-- 💡 Coordinator at Thaparians Code Mania Coding Club
+- 🥇 1st Prize – Intercollege Hackathon under Smart India Hackathon (SIH)  
+- 🏅 2nd Place – Science Fair Project (Diploma Year 1)  
+- 🏆 Top Rank – All Semesters in Diploma (PSBTE & IT)  
+- 💡 Coding Club Coordinator – Thaparians Code Mania  
 
-## 📚 Interests
+## 💬 Interests
 
-Outside the world of coding, I am fascinated by the psychology of the mind, health, and spirituality. An avid reader of non-fiction books, I also enjoy playing sports and am deeply committed to environmental causes. I play chess. I like to know about people interest and their culture.
+Beyond tech, I'm deeply interested in **psychology**, **spirituality**, **health**, and **sustainability**. I enjoy reading non-fiction, playing chess, learning about cultures, and exploring nature.
 
 ## 📫 Let's Connect!
 
